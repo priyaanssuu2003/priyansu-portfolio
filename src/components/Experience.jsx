@@ -7,7 +7,7 @@ const TIMELINE = [
     type: "work", icon: Briefcase, accent: "cyan",
     title: "Data Analyst Intern",
     org: "Digisnare Technologies", orgLink: "#",
-    period: "2024", location: "Bengaluru, Karnataka",
+    period: "April 2025 - May 2025", location: "Bengaluru, Karnataka",
     points: [
       "Designed and maintained ETL pipelines to clean and transform raw business data for downstream analysis.",
       "Built interactive Power BI dashboards adopted by the operations team for weekly reporting.",
@@ -20,7 +20,7 @@ const TIMELINE = [
     type: "education", icon: GraduationCap, accent: "amber",
     title: "B.Sc. Computer Science & Mathematics",
     org: "CHRIST (Deemed to be University)", orgLink: "https://christuniversity.in",
-    period: "2022 — 2025", location: "Bengaluru, Karnataka",
+    period: "June 2024 - April 2027", location: "Bengaluru, Karnataka",
     points: [
       "Dual specialization combining theoretical computer science with rigorous mathematical foundations.",
       "Relevant coursework: Probability & Statistics, Linear Algebra, Database Systems, Machine Learning, Data Structures & Algorithms.",
