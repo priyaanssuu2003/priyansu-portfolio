@@ -6,7 +6,7 @@ const LINKS = [
   { icon: Mail, label: "Email Me", sub: "choudhurypriyansu@gmail.com", href: "mailto:choudhurypriyansu@gmail.com", accent: "cyan", external: false },
   { icon: Linkedin, label: "LinkedIn", sub: "linkedin.com/in/priyansu-choudhury", href: "https://www.linkedin.com/in/priyansu-choudhury/", accent: "cyan", external: true },
   { icon: Github, label: "GitHub", sub: "github.com/priyaanssuu2003", href: "https://github.com/priyaanssuu2003", accent: "amber", external: true },
-  { icon: FileText, label: "Download Resume", sub: "PDF | Latest version", href: "/resume.pdf", accent: "amber", external: true },
+  { icon: FileText, label: "Download Resume", sub: "PDF | Latest version", href: "/PriyansuChoudhury_DA.pdf", accent: "amber", external: true },
 ];
 
 const fadeUp = {

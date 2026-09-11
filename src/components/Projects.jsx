@@ -4,17 +4,17 @@ import { ArrowUpRight, BarChart2, Brain, Route, ShoppingBag, Mic } from "lucide-
 
 const PROJECTS = [
   {
-    id: "sentiment-studio", title: "Sentiment Analysis Studio", accent: "cyan", icon: Brain,
+    id: "sentiment-studio", title: "Sentiment Analysis & Client Feedback Analytics", accent: "cyan", icon: Brain,
     tagline: "Decode the emotional pulse of any text corpus at scale.",
-    description: "An end-to-end NLP pipeline that processes text data, runs sentiment classification, and surfaces insights through interactive Plotly visualizations in a Streamlit web app. Handles real-time input and batch CSV uploads.",
+    description: "Developed an NLP application using Scikit-learn to parse and classify 50,000+ customer feedback records into sentiment categories with 89% accuracy. Built an interactive Streamlit application to visualize real-time feedback drivers, enabling operations teams to respond quickly to service degradation risks.",
     tags: ["NLP", "Streamlit", "Plotly", "Python", "Scikit-learn"],
     link: "https://sentiment-analysis-cbpmuzj85m4jvlp8ypwpo7.streamlit.app/",
   },
   {
-    id: "loanscope", title: "LoanScope", accent: "amber", icon: BarChart2,
+    id: "loanscope", title: "LoanScope Financial Analytics & Verification Web Platform", accent: "amber", icon: BarChart2,
     tagline: "Bank loan analytics — from raw ledgers to risk dashboards.",
-    description: "A comprehensive analytics platform for bank loan data. Built with SQL for data modelling, Python for transformation, and interactive BI dashboards to help analysts track approval rates, default risk, and portfolio health.",
-    tags: ["SQL", "Python", "Power BI", "Pandas", "Analytics"],
+    description: "Designed a normalized SQL database schema to manage loan, credit, and customer portfolio data, accelerating query performance speed by 30%. Automated financial data verification and compliance rules for structured and unstructured customer documentation, reducing data ingestion errors by 25%. Built automated risk-assessment algorithms to monitor credit quality metrics and track portfolio financial health for early risk intervention.",
+    tags: ["SQL", "Python", "Data Modeling", "Pandas", "Analytics"],
     link: "https://bank-loan-analytics.vercel.app/",
   },
   {
@@ -32,10 +32,10 @@ const PROJECTS = [
     link: "https://dijkstra-algorithm-visualizer-tan.vercel.app/",
   },
   {
-    id: "sales-analytics", title: "Superstore & Sales Analytics", accent: "cyan", icon: ShoppingBag,
+    id: "sales-analytics", title: "Superstore Operational & Commercial Analytics", accent: "cyan", icon: ShoppingBag,
     tagline: "BI dashboards that turn sales chaos into clarity.",
-    description: "A pair of business intelligence dashboards built in Power BI and Tableau analyzing Superstore and commercial sales data. Features YoY trends, regional breakdown, category performance, and profitability analysis.",
-    tags: ["Power BI", "Tableau", "Excel", "DAX", "BI"],
+    description: "Processed and modeled 25,000+ commercial transactional records using Power Query to establish a centralized relational star-schema data structure. Formulated 15+ complex DAX measures to calculate regional profitability, monthly growth trends, and inventory turnover efficiency metrics. Built automated executive reporting dashboards that streamlined regional review cycles across 4 enterprise business divisions.",
+    tags: ["Power BI", "Power Query", "DAX", "BI"],
     link: "https://github.com/priyaanssuu2003/superstore-analysis-powerbi",
   },
 ];
