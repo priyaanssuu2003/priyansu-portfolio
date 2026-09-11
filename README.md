@@ -2,6 +2,9 @@
 
 A premium, award-worthy personal portfolio for a Data Analyst. Built with React + Vite, Tailwind CSS, and Framer Motion.
 
+## Portfolio Link
+Link: priyansu-dev-eta.vercel.app
+
 ## Tech Stack
 
 - **React 18** + **Vite 5** ? fast builds, HMR
